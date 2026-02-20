@@ -1,0 +1,78 @@
+########################################
+# OS Junk Files
+########################################
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+########################################
+# Editor / IDE
+########################################
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+########################################
+# Node / Frontend
+########################################
+node_modules/
+dist/
+build/
+.cache/
+.next/
+out/
+
+########################################
+# Python
+########################################
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+
+########################################
+# Logs
+########################################
+logs/
+*.log
+
+########################################
+# Environment secrets
+########################################
+.env.local
+.env.*.local
+
+########################################
+# Design & Export
+########################################
+*.psd
+*.ai
+*.sketch
+*.fig
+*.xd
+*.blend
+*.zip
+*.rar
+*.7z
+
+########################################
+# Temporary files
+########################################
+tmp/
+temp/
+*.tmp
