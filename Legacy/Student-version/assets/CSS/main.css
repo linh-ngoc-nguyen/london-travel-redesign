@@ -12,6 +12,9 @@ p {
 	}
 	
 .reset {
+	clear: both;
+	}		
+
 #heading {
 	padding-left: 250px;
 
