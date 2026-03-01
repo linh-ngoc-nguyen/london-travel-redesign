@@ -80,7 +80,6 @@ logs/
 *.psd
 *.ai
 *.sketch
-*.fig
 *.xd
 *.blend
 *.zip
